@@ -1,5 +1,9 @@
 # Changelog
 
+## [10.4.1](https://github.com/npm/cli/compare/config-v10.4.0...config-v10.4.1) (2025-09-19)
+### Documentation
+* [`7a09902`](https://github.com/npm/cli/commit/7a099029dbeeeab821498b9b462abce1269461f4) [#8582](https://github.com/npm/cli/pull/8582) bring back certfile (#8582) (@jenseng)
+
 ## [10.4.0](https://github.com/npm/cli/compare/config-v10.3.1...config-v10.4.0) (2025-09-03)
 ### Features
 * [`bdcc10d`](https://github.com/npm/cli/commit/bdcc10d9f848940987b3d326ccd4673fab2bcfef) [#8359](https://github.com/npm/cli/pull/8359) add support for optional env var replacements in .npmrc (#8359) (@aczekajski, @owlstronaut)
